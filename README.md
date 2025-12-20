@@ -1,7 +1,7 @@
 # SECI1013-Discreate-Structure<br>
 
 ## Introduction
-Lecturer : Dr Noorfa Haszlina Binti Mustaffa 
+Lecturer : Dr Noorfa Haszlina Binti Mustaffa <br>
 Section  : 02
 
 ## Summarize

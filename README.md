@@ -1,4 +1,4 @@
-# SECI1013-Discreate-Structure<br>
+# SECI1013-Discrete-Structure<br>
 
 ## Introduction
 Lecturer : Dr Noorfa Haszlina Binti Mustaffa <br>
